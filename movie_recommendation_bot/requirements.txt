@@ -1,0 +1,8 @@
+pytelegrambotapi
+pandas
+numpy
+sentence-transformers
+scikit-learn
+pymorphy3
+matplotlib
+
